@@ -24,6 +24,7 @@ Los archivos .py contiene todo el código de la evaluación para ejecutarlo en l
 * Python
 
 ## Librerias utilizadas
+* **request**. Puedes encontrar la documentación oficial a través del siguiente [link](https://pypi.org/project/requests/).
 * **Numpy**. Puedes encontrar la documentación oficial a través del siguiente [link](https://numpy.org/doc/stable/user/).
 * **Pandas**. Puedes encontrar la documentación oficial a través del siguiente [link](https://pandas.pydata.org/docs/user_guide/index.html).
 * **mysql.connector**. Puedes encontrar la documentación oficial a través del siguiente [link](https://dev.mysql.com/doc/connector-python/en/connector-python-versions.html).
