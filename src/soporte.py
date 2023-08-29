@@ -5,7 +5,7 @@ from geopy.geocoders import Nominatim
 import mysql.connector
 import src.soporte_variables as var
 
-class Evaluacion():
+class Evaluacion:
     def __init__(self,lista_paises,nombre_bbdd,contraseña,valor_user='root',valor_host='localhost',dataframe=pd.DataFrame()):
         self.lista_paises = lista_paises
         self.nombre_bbdd = nombre_bbdd
